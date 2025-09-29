@@ -9,3 +9,5 @@ function name() {
 function is18() {
     return age >= 18;
 }
+
+6
