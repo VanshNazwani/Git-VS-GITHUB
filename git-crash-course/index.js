@@ -13,4 +13,6 @@ function is18() {
 
 function message(message) {
     console.log('this is a message: ' + message);
+    console.log(`this is a message: ${message}`);
+    
 }
