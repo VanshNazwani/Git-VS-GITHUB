@@ -16,3 +16,11 @@ function message(message) {
     console.log(`this is a message: ${message}`);
     
 }
+
+
+
+function messageB(message) {
+    console.log('this is a messageB: ' + message);
+    console.log(`this is a messageB: ${message}`);
+    
+}
